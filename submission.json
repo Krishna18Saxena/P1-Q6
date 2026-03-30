@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic studio photograph, square composition, 2048x2048 resolution, full-frame DSLR quality, 50mm lens. A tailor is obsessively crafting an extremely intricate suit directly onto a single mannequin. The fabric is excessively stitched, patched, and tightly contoured to every tiny imperfection of the mannequin’s body, with dense seams, pins, folds, and adjustments clearly visible. The suit appears overworked and unnaturally complex. In the background, several other mannequins wear the same suit, but the fit is clearly poor, loose in some areas, tight in others, visibly distorted and awkward. Clean tailoring studio environment, neutral backdrop, soft natural window lighting, realistic shadows, sharp focus, high detail textures. No text, no labels, no symbols, no diagrams. Ensure high resolution output, minimum 2048px on both dimensions, crisp photographic detail, physically plausible scene.",
+  "model": "Gemini 2.0 Flash Image (Nano Banana)",
+  "concept": "overfitting",
+  "metaphor": "An over-tailored suit perfectly fits one mannequin but fits others poorly, showing memorization of specifics instead of generalization."
+}
